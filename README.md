@@ -3,7 +3,7 @@
 #
 <p align=center>
   <a>
-    <img height=220 src="https://github-readme-stats.vercel.app/api?username=PassiveLemon&bg_color=0D1117&card_width=120&text_color=c9d1d9&hide_border=false&show_icons=true&icon_color=2f80ed&">
+    <img height=220 src="https://github-readme-stats.vercel.app/api?username=PassiveLemon&bg_color=0D1117&card_width=150&text_color=c9d1d9&hide_border=false&show_icons=true&icon_color=2f80ed&">
     <img align=top height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiveLemon&layout=compact&bg_color=0D1117&card_width=100&text_color=c9d1d9&hide_border=false&">
   </a>
 </p>
