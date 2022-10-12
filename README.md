@@ -1,8 +1,12 @@
-### Hello
-I am PassiveLemon though you can call me Passive or Lemon.
+### I am PassiveLemon though you can call me Passive or Lemon. </br>
+#
+<p align=center>
+  <a>
+    <img height=250 src="https://github-readme-stats.vercel.app/api?username=PassiveLemon&bg_color=0D1117&card_width=200&text_color=c9d1d9&hide_border=false&show_icons=true&icon_color=2f80ed&">
+    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiveLemon&layout=compact&bg_color=0D1117&card_width=300&text_color=c9d1d9&hide_border=false&">
+  </a>
+</p>
 
-Motivation is not a strong suit of mine. I will work on stuff when I feel like it.
-
-![](https://streak-stats.demolab.com?user=PassiveLemon&theme=github-dark&border_radius=10&ring=2D74DD&currStreakNum=DDDDDD&sideNums=2D74DD&border=2D74DD&stroke=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD&fire=DD5836&sideNums=DDDDDD)
-
-This stuff is mostly just for person use. I upload here for organization and so I could potentially help somebody.
+Motivation is not a strong suit of mine. I will work on stuff when I feel like it. </br>
+</br>
+This stuff is mostly just for person use. I upload here for organization and so I could potentially help somebody. </br>
