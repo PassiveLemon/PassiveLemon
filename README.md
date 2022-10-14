@@ -5,7 +5,7 @@
   </a>
 </p>
 <p>
-  I am PassiveLemon though you can call me Passive or Lemon. </br>
+  Hello, I am PassiveLemon though you can call me Passive or Lemon. I am a self-hosting enthusiast and gamer. </br>
   </br>
   Motivation is not a strong suit of mine. I will work on stuff when I feel like it. </br>
   </br>
