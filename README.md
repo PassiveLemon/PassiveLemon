@@ -29,3 +29,14 @@ The stuff I upload here is organization for personal use stuff though I'm happy 
 [![Discord](https://img.shields.io/badge/Discord-5662f6?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/496436509969350697)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&logoColor=000&style=for-the-badge)](mailto:jeremyseber@gmail.com?subject=Github)
 [![Steam](https://img.shields.io/badge/Steam-103C6C?logo=steam&logoColor=fff&style=for-the-badge)](https://steamcommunity.com/profiles/76561198145741833/)
+</br>
+</br>
+<details>
+ <summary> Other Stats </summary>
+ <p align=center>
+   <a>
+     <img align=top src="https://github-readme-stats.vercel.app/api?username=PassiveLemon&bg_color=0D1117&text_color=c9d1d9&hide_border=true&show_icons=true&icon_color=2f80ed&">
+     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiveLemon&layout=compact&bg_color=0D1117&text_color=c9d1d9&hide_border=true&">
+   </a>
+ </p>
+</details>
