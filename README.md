@@ -1,11 +1,18 @@
 # Stats
+[![Followers](https://img.shields.io/github/followers/PassiveLemon?labelColor=2e343e&color=BBAC16&style=for-the-badge)](https://github.com/PassiveLemon?tab=followers)
+[![Stars](https://img.shields.io/github/stars/PassiveLemon?labelColor=2e343e&color=BBAC16&style=for-the-badge)](https://github.com/PassiveLemon?tab=followers)
 
 # Me
-Hello, I am PassiveLemon though you can call me Passive or Lemon. I am a self-hosting enthusiast and gamer.
-<br></br>
-Motivation is not a strong suit of mine. I will work on stuff when I feel like it.
-<br></br>
-The stuff I upload here is organization for personal use stuff though I'm happy if this can help anyone in some way.
+Hello, I am PassiveLemon though you can call me Passive or Lemon. I am a self-hosting enthusiast and gamer. </br>
+Motivation is not a strong suit of mine. I will work on stuff when I feel like it. </br>
+The stuff I upload here is organization for personal use stuff though I'm happy if this can help anyone in some way. </br>
+
+# Interests
+* ### Self Hosting
+  * Containerization by means of Docker (May try Podman)
+  * Nginx, PiHole, Vaultwarden, Jellyfin, Kavita, and game servers like Minecraft, [TmodLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
+* ### Gaming
+  * Apex, Siege, Minecraft, Terraria, Valheim
 
 # Programs
 [![Atom](https://img.shields.io/badge/Atom-5FB57D?logo=atom&logoColor=fff&style=for-the-badge)](https://github.com/atom/atom)
