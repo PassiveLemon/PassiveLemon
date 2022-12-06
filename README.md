@@ -9,11 +9,13 @@ The stuff I upload here is organization for personal use stuff though I'm happy 
 
 # Interests
 * ### Self-Hosting
-  * Containerization by means of Docker (May try Podman)
+  * Containerization by means of Docker (Will experiment with Podman).
   * Nginx, PiHole, Vaultwarden, Jellyfin, Kavita, and game servers like Minecraft, [TmodLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
+* ### Scripting
+  * Just automating stuff.
 * ### Gaming
-  * Apex, Siege, Minecraft, Terraria, Valheim
-  * Pavlov, VAIL, Blade & Sorcery
+  * FPS, VR, Survival, Automation, etc. (Check my Steam if you care so much)
+  * Modding.
 
 # Utilities
 [![Atom](https://img.shields.io/badge/Atom-5FB57D?logo=atom&logoColor=fff&style=for-the-badge)](https://github.com/atom/atom)
@@ -33,10 +35,10 @@ The stuff I upload here is organization for personal use stuff though I'm happy 
 </br>
 <details>
  <summary> Other Stats </summary>
- <p align=center>
+  <p align=center>
    <a>
-     <img align=top src="https://github-readme-stats.vercel.app/api?username=PassiveLemon&bg_color=0D1117&text_color=c9d1d9&hide_border=true&show_icons=true&icon_color=2f80ed&">
-     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiveLemon&layout=compact&bg_color=0D1117&text_color=c9d1d9&hide_border=true&">
-   </a>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=PassiveLemon&bg_color=0D1117&text_color=c9d1d9&hide_border=true&show_icons=true&icon_color=2f80ed&">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiveLemon&layout=compact&bg_color=0D1117&text_color=c9d1d9&hide_border=true&">
+  </a>
  </p>
 </details>
