@@ -1,6 +1,5 @@
-# Stats
 [![Followers](https://img.shields.io/github/followers/PassiveLemon?labelColor=2e343e&color=BBAC16&style=for-the-badge)](https://github.com/PassiveLemon?tab=followers)
-![Stars](https://img.shields.io/github/stars/PassiveLemon?labelColor=2e343e&color=BBAC16&style=for-the-badge)
+[![Stars](https://img.shields.io/github/stars/PassiveLemon?labelColor=2e343e&color=BBAC16&style=for-the-badge)](https://github.com/PassiveLemon?tab=repositories&q=&type=&language=&sort=stargazers)
 
 # Me
 Hello, I am PassiveLemon though you can call me Passive or Lemon. </br>
