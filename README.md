@@ -10,7 +10,7 @@ The stuff I upload here is organization for personal use though I'm happy if thi
 # Interests
 * ### Self-Hosting
   * Containerization by means of Docker (Might experiment with Podman).
-  * Nginx, PiHole, Vaultwarden, Jellyfin, Kavita, and game servers like Minecraft, [TmodLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
+  * Nginx, PiHole, Vaultwarden, Jellyfin, Kavita, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
 * ### Scripting
   * Just automating stuff.
 * ### Gaming
