@@ -13,6 +13,7 @@ The stuff I upload here is organization for personal use though I'm happy if thi
   * My main services include Nginx, PiHole, Vaultwarden, Jellyfin, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
 * ### Scripting
   * Just automating stuff.
+  * Thinking about learning Lua.
 * ### Gaming
   * FPS, VR, Survival, Automation, etc. (Check my Steam if you care so much)
   * Modding.
