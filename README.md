@@ -20,9 +20,9 @@ The stuff I upload here is organization for personal use though I'm happy if thi
   * Blender. (Very new)
 
 # Utilities
-[![Atom](https://img.shields.io/badge/Atom-5FB57D?logo=atom&logoColor=fff&style=for-the-badge)](https://github.com/atom/atom)
-[![Docker](https://img.shields.io/badge/Docker-1C90ED?logo=docker&logoColor=fff&style=for-the-badge)](https://github.com/docker)
-[![VMware](https://img.shields.io/badge/VMware-1C90ED?logo=VMware&logoColor=fff&style=for-the-badge)](https://github.com/vmware)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://github.com/atom/atom)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://github.com/docker)
+[![VMware](https://img.shields.io/badge/VMware-607078?logo=VMware&logoColor=fff&style=for-the-badge)](https://github.com/vmware)
 
 # Languages
 ![Shell](https://img.shields.io/badge/Shell/Bash-89E051?logo=gnu-bash&logoColor=000&style=for-the-badge)
