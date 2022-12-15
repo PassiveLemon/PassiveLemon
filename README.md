@@ -20,7 +20,7 @@ The stuff I upload here is organization for personal use though I'm happy if thi
   * Blender. (Very new)
 
 # Utilities
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://github.com/atom/atom)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://github.com/docker)
 [![VMware](https://img.shields.io/badge/VMware-607078?logo=VMware&logoColor=fff&style=for-the-badge)](https://github.com/vmware)
 
