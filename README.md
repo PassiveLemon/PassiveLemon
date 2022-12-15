@@ -30,6 +30,7 @@ The stuff I upload here is organization for personal use though I'm happy if thi
 ![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?logo=windows-terminal&logoColor=000&style=for-the-badge)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-384d54?logo=docker&logoColor=fff&style=for-the-badge)
 ![Powershell](https://img.shields.io/badge/Powershell-012456?logo=powershell&logoColor=fff&style=for-the-badge)
+![Nix](https://img.shields.io/badge/Nix-7e7eff?logo=nixos&logoColor=fff&style=for-the-badge)
 
 # Socials
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/496436509969350697)
