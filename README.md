@@ -9,8 +9,8 @@ The stuff I upload here is organization for personal use though I'm happy if thi
 
 # Interests
 * ### Self-Hosting
-  * Containerization by means of Docker (Might experiment with Podman).
-  * My main services include Nginx, PiHole, Vaultwarden, Jellyfin, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
+  * Containerization by means of Docker with Portainer.
+  * My main services include Nginx, Dashy, PiHole, Vaultwarden, Jellyfin, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
 * ### Scripting
   * Just automating stuff.
   * Thinking about learning Lua.
@@ -23,8 +23,7 @@ The stuff I upload here is organization for personal use though I'm happy if thi
 # Utilities
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://nixos.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://github.com/docker)
-[![VMware](https://img.shields.io/badge/VMware-607078?logo=VMware&logoColor=fff&style=for-the-badge)](https://github.com/vmware)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
 
 # Languages
 ![Shell](https://img.shields.io/badge/Shell/Bash-89E051?logo=gnu-bash&logoColor=000&style=for-the-badge)
