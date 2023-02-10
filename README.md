@@ -18,7 +18,7 @@ Entiendo algo de español, pero no soy un experto :) </br>
 * #### Gaming
   * FPS, Survival, Automation, etc. (Check my Steam if you care so much)
   * Modding.
-  * Windows 10 Dual-boot for VR and linux unfriendly games like Siege and Valorant. I tried a KVM with GPU passthrough but I couldn't get it to work.
+  * Windows 10 dual-boot for VR and linux unfriendly games like Siege and Valorant. I tried a KVM with GPU passthrough but I couldn't get it to work.
 
 ## Operating Systems
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://nixos.org/)
