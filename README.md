@@ -34,8 +34,8 @@ Entiendo algo de español, pero no soy un experto :) </br>
 ![Shell](https://img.shields.io/badge/Shell/Bash-89E051?logo=gnu-bash&logoColor=000&style=for-the-badge)
 ![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?logo=windows-terminal&logoColor=000&style=for-the-badge)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-384d54?logo=docker&logoColor=fff&style=for-the-badge)
-![Powershell](https://img.shields.io/badge/Powershell-012456?logo=powershell&logoColor=fff&style=for-the-badge)
 ![Nix](https://img.shields.io/badge/Nix-7e7eff?logo=nixos&logoColor=fff&style=for-the-badge)
+![Powershell](https://img.shields.io/badge/Powershell-012456?logo=powershell&logoColor=fff&style=for-the-badge)
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/5aNwbjxHeK)
