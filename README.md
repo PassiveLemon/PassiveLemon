@@ -12,12 +12,11 @@ Entiendo algo de español, pero no soy un experto :) </br>
 * #### Self-Hosting
   * Containerization by means of Docker with Portainer.
   * My main services include Nginx, PiHole, Vaultwarden, Jellyfin, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
-* #### Scripting
+* #### Coding
   * Automating stuff.
-  * Might try to learn Lua or Rust.
+  * Plan to learn Lua and/or Rust.
 * #### Gaming
-  * FPS, Survival, Automation, etc. (Check my Steam if you care so much)
-  * Modding.
+  * FPS, survival, automation, puzzle, etc. (Check my Steam if you care so much)
   * Windows 10 dual-boot for VR and linux unfriendly games like Siege and Valorant. I tried a KVM with GPU passthrough but I couldn't get it to work.
 
 ## Operating Systems
@@ -26,16 +25,17 @@ Entiendo algo de español, pero no soy un experto :) </br>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
 
 ## Utilities
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=fff&style=for-the-badge)](https://www.mozilla.org/en-US/firefox/new/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=for-the-badge)](https://vscodium.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/)
 
 ## Languages
-![Shell](https://img.shields.io/badge/Shell/Bash-89E051?logo=gnu-bash&logoColor=000&style=for-the-badge)
-![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?logo=windows-terminal&logoColor=000&style=for-the-badge)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-384d54?logo=docker&logoColor=fff&style=for-the-badge)
 ![Nix](https://img.shields.io/badge/Nix-7e7eff?logo=nixos&logoColor=fff&style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell/Bash-89E051?logo=gnu-bash&logoColor=000&style=for-the-badge)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-384d54?logo=docker&logoColor=fff&style=for-the-badge)
 ![Powershell](https://img.shields.io/badge/Powershell-012456?logo=powershell&logoColor=fff&style=for-the-badge)
+![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?logo=windows-terminal&logoColor=000&style=for-the-badge)
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/5aNwbjxHeK)
