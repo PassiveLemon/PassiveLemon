@@ -14,10 +14,10 @@ Entiendo algo de español, pero no soy un experto :) </br>
   * My main services include Nginx, PiHole, Vaultwarden, Jellyfin, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
 * #### Coding
   * Automating stuff.
-  * Plan to learn Lua and/or Rust.
+  * Plan to learn Rust or some other.
 * #### Gaming
   * FPS, survival, automation, puzzle, etc. (Check my Steam if you care so much)
-  * Windows 10 dual-boot for VR and linux unfriendly games like Siege and Valorant. I tried a KVM with GPU passthrough but I couldn't get it to work.
+  * Windows 10 dual-boot for VR and linux unfriendly games like Siege and Valorant. Single GPU passthrough on NixOS is not easy.
 
 ## Operating Systems
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://nixos.org/)
