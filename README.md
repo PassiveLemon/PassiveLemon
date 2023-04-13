@@ -12,7 +12,7 @@ Entiendo algo de español, pero no soy un experto :) </br>
 * #### Self-Hosting
   * Containerization by means of Docker with Portainer.
   * Main services include Nginx, PiHole, Vaultwarden, Jellyfin, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
-  * I like to make minimal containers for things. Anything I upload to Dockerhub will also be in Github projects.
+  * I like to make minimal containers for things. Anything I upload to Dockerhub will also be in Github packages.
 * #### Coding
   * Automating stuff with scripts.
   * Might try to learn Rust.
