@@ -1,9 +1,8 @@
 [![Followers](https://img.shields.io/github/followers/PassiveLemon?labelColor=2e343e&color=BBAC16&style=for-the-badge)](https://github.com/PassiveLemon?tab=followers)
 [![Stars](https://img.shields.io/github/stars/PassiveLemon?labelColor=2e343e&color=BBAC16&style=for-the-badge)](https://github.com/PassiveLemon?tab=repositories&q=&type=&language=&sort=stargazers)
 
-Hello, I am PassiveLemon though you can call me Passive or Lemon. </br>
-</br>
 Motivation is not a strong skill of mine. I will work on stuff when I feel like it. </br>
+I try to be consistent across my repos so random things might change. </br>
 The stuff I upload here is organization for personal use though I'm happy if this can help anyone in some way. </br>
 
 Entiendo algo de español, pero no soy un experto :) </br>
@@ -52,18 +51,4 @@ Entiendo algo de español, pero no soy un experto :) </br>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiveLemon&layout=compact&bg_color=0D1117&text_color=c9d1d9&hide_border=true&">
   </a>
  </p>
-</details>
-<details>
- <summary> Donate </summary>
-  <p>
-   <a href="https://www.paypal.com/donate/?business=NEVJU6EKWMWNS&no_recurring=0&currency_code=USD">
-    <img src="https://img.shields.io/badge/Paypal-00457C?logo=paypal&logoColor=fff&style=for-the-badge">
-   </a>
-   <a href="https://img.shields.io/badge/1B66Z3mzb4VfT3iWATNSeb5beaeeVmNxoW-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge">
-    <img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge">
-   </a>
-   <a href="https://img.shields.io/badge/0x30272073135E67FdA84B1dDC1d692EbA0599B58A-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge">
-   </a>
-  </p>
 </details>
