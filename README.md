@@ -3,21 +3,22 @@
 
 Motivation is not a strong skill of mine. I will work on stuff when I feel like it. </br>
 I try to be consistent across my repos so random things might change. </br>
-The stuff I upload here is organization for personal use though I'm happy if this can help anyone in some way. </br>
+The stuff I upload here is mostly organization for personal use though I'm happy if they can help anyone in some way. </br>
 
 Entiendo algo de español, pero no soy un experto :) </br>
 
+<b> Anything I upload to Dockerhub will also be in Github packages. </b>
+
 ## Interests
 * #### Self-Hosting
-  * Containerization by means of Docker with Portainer.
-  * Main services include Nginx, PiHole, Vaultwarden, Jellyfin, and game servers like Minecraft, [tModLoader](https://github.com/PassiveLemon/tmodloader1.4-docker), and Valheim.
-  * I like to make minimal containers for things. Anything I upload to Dockerhub will also be in Github packages.
+  * Containerization by means of Docker + Portainer.
+  * I like to make minimal containers for things.
 * #### Coding
   * Automating stuff with scripts.
   * Might try to learn Rust.
 * #### Gaming
   * FPS, survival, automation, puzzle, etc. (Check my Steam if you care so much)
-  * Windows 10 dual-boot for VR and linux unfriendly games like Siege and Valorant. Single GPU passthrough on NixOS is not easy.
+  * Windows 10 dual-boot for VR and linux unfriendly games like Siege and Valorant. I gave up on single GPU passthrough.
 
 ## Operating Systems
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://nixos.org/)
