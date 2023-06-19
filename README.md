@@ -40,7 +40,7 @@ Entiendo algo de español, pero no soy un experto :) </br>
 ![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?logo=windows-terminal&logoColor=000&style=for-the-badge)
 
 ## Socials
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)][https://discord.gg/5aNwbjxHeK](https://discordapp.com/users/496436509969350697/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discordapp.com/users/496436509969350697)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:jeremyseber@gmail.com?subject=Github)
 [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=fff&style=for-the-badge)](https://steamcommunity.com/profiles/76561198145741833)
 
