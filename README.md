@@ -4,6 +4,7 @@
 </p>
 <p align=center>
  <a> Average Linux user with a passion for Docker and self-hosting. </a></br>
+ <a> Nixpkgs contributor. </a></br>
  <a><b> Anything I upload to Dockerhub will also be in Github packages. </b></a>
 </p>
 <p align=center>
