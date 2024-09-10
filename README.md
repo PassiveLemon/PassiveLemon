@@ -3,9 +3,7 @@
  <a href="https://github.com/PassiveLemon?tab=repositories&amp;q=&amp;type=&amp;language=&amp;sort=stargazers"><img align=top src="https://img.shields.io/github/stars/PassiveLemon?labelColor=2e343e&color=e5c07b&style=for-the-badge"></a>
 </p>
 <p align=center>
- <a> Average Linux user with a passion for Docker and self-hosting. </a></br>
- <a> Nixpkgs contributor. </a></br>
- <a><b> Anything I upload to Dockerhub will also be in Github packages. </b></a>
+ <a> An average Linux user and FOSS enthusiast with interests in electronics, networking, and generally anything related to technology. </a></br>
 </p>
 <p align=center>
  <a>
